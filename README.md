@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Saeed</h1>
+<h1 align="center">Data SCience Student</h1>
+
+
 <h3 align="center">"Passionate about Data Science and Problem Solving"</h3>
+<h3 align="center">"We will do our best to solve Mostafa Saad's problem-solving sheet, which contains approximately 950 problems." </h3>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
