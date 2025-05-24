@@ -2,11 +2,12 @@
 <h3 align="center">NLP & Computer Vision Engineer | Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:saeedneamtallahsaeed@gmail.com">📧 Email</a> •
-  <a href="https://github.com/SaeedNeamtallah" target="_blank">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/saeed-neamtallah" target="_blank">🔗 LinkedIn</a> •
-  📍 Giza, Egypt
+  <a href="mailto:saeedneamtallahsaeed@gmail.com" style="text-decoration: none; color: inherit;"><strong>Email</strong></a> &nbsp;|&nbsp;
+  <a href="https://github.com/SaeedNeamtallah" target="_blank" style="text-decoration: none; color: inherit;"><strong>GitHub</strong></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/saeed-neamtallah" target="_blank" style="text-decoration: none; color: inherit;"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
+  <span><strong>Location:</strong> Giza, Egypt</span>
 </p>
+
 
 ---
 
@@ -19,29 +20,6 @@ Driven by a passion for solving real-world problems with practical AI solutions.
 
 ---
 
-## 🛠️ Technical Skills
-
-### 👨‍💻 Programming Languages
-- **Python**
-- **SQL**
-
-### 🤖 Machine Learning & Deep Learning
-- **TensorFlow**
-- **PyTorch**
-- **Scikit-learn**
-
-### 📊 Data Analysis & Visualization
-- **Pandas**
-- **NumPy**
-- **Matplotlib**
-- **Seaborn**
-
-### 🗃️ Databases & Tools
-- **MySQL**
-- **Git / GitHub**
-- **Jupyter Notebook**
-
----
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
