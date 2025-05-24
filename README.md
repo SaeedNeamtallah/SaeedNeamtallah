@@ -4,7 +4,7 @@
 <p align="center">
   <a href="mailto:saeedneamtallahsaeed@gmail.com" style="text-decoration: none; color: inherit;"><strong>Email</strong></a> &nbsp;|&nbsp;
   <a href="https://github.com/SaeedNeamtallah" target="_blank" style="text-decoration: none; color: inherit;"><strong>GitHub</strong></a> &nbsp;|&nbsp;
-  <a href="https://www.linkedin.com/in/saeed-neamtallah" target="_blank" style="text-decoration: none; color: inherit;"><strong>LinkedIn</strong></a> &nbsp;|&nbsp;
+  <a href="https://www.linkedin.com/in/saeed-neamtallah" target="_blank" style="text-decoration: none; color: inherit;"><strong>LinkedIn</strong></a> 
 </p>
 
 
