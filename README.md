@@ -30,8 +30,6 @@
 - **Deployment Basics:** API-first mindset, monitoring-ready patterns
 
 
-> ✅ علشان تثبّت المشاريع: افتح بروفايل GitHub → **Customize your pins** → اختار 3–6 repos.
-
 ---
 
 ## 🧰 Tech Stack
