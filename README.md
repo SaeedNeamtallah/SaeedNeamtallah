@@ -29,25 +29,6 @@
 - **LLM Engineering:** prompt design, tool/function calling, hallucination mitigation
 - **Deployment Basics:** API-first mindset, monitoring-ready patterns
 
----
-
-## ⭐ Featured Projects (Pin these)
-> Replace with your real repos + 1–2 lines لكل مشروع (مش لازم أرقام لو مش جاهزة)
-
-### 1) REPLACE_ME_PROJECT_NAME
-**What it is:** REPLACE_ME (problem → solution in one sentence)  
-**Tech:** Python • PyTorch • Transformers • REPLACE_ME  
-**Repo:** https://github.com/SaeedNeamtallah/REPLACE_ME
-
-### 2) REPLACE_ME_PROJECT_NAME
-**What it is:** REPLACE_ME  
-**Tech:** Python • RAG • Vector DB (FAISS/Chroma) • FastAPI  
-**Repo:** https://github.com/SaeedNeamtallah/REPLACE_ME
-
-### 3) REPLACE_ME_PROJECT_NAME
-**What it is:** REPLACE_ME  
-**Tech:** LoRA/QLoRA • PEFT • TRL • Evaluation  
-**Repo:** https://github.com/SaeedNeamtallah/REPLACE_ME
 
 > ✅ علشان تثبّت المشاريع: افتح بروفايل GitHub → **Customize your pins** → اختار 3–6 repos.
 
