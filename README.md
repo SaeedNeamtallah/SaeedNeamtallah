@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Saeed Neamtallah 👋</h1>
-<h3 align="center">NLP & LLM Engineer • RAG • Fine-tuning • Python</h3>
+<h3 align="center">NLP & LLM Engineer • RAG Systems • Fine-tuning • Python</h3>
 
 <p align="center">
   <a href="mailto:saeedneamtallahsaeed@gmail.com"><strong>Email</strong></a> ·
@@ -14,42 +14,57 @@
 ---
 
 ## 👨‍💻 About Me
-- I build **NLP & LLM systems** with a focus on **reliability, clean code, and practical deployment**.
-- Interested in **RAG**, **Information Extraction**, **fine-tuning (LoRA/QLoRA)**, and **LLM evaluation**.
-- I like turning messy data into **useful pipelines** and **production-friendly AI features**.
+- I design and build **NLP & LLM-powered systems** with a focus on **reliability, scalability, and clean architecture**.
+- Strong interest in **Retrieval-Augmented Generation (RAG)**, **Information Extraction**, and **LLM evaluation**.
+- Experienced in **fine-tuning workflows (LoRA / QLoRA)** and building **end-to-end AI pipelines**.
+- I enjoy transforming **unstructured data into production-ready AI solutions**.
 
-**Open to:** Intern / Junior roles — Egypt • Remote • Gulf (UAE/KSA)
+**Currently seeking:** Intern / Junior LLM Engineer roles — Egypt • Remote • Gulf (UAE/KSA)
 
 ---
 
 ## 🎯 Core Focus
-- **RAG Pipelines:** chunking, embeddings, retrieval, reranking, grounding
-- **Structured Outputs:** JSON schemas, validation, robust extraction
-- **Fine-tuning:** SFT + LoRA/QLoRA (dataset formatting, training, evaluation basics)
-- **LLM Engineering:** prompt design, tool/function calling, hallucination mitigation
-- **Deployment Basics:** API-first mindset, monitoring-ready patterns
-
+- **RAG Systems**
+  - Chunking strategies, embeddings, hybrid retrieval, reranking, grounding
+- **Structured Outputs**
+  - JSON schema enforcement, validation, robust extraction pipelines
+- **Fine-tuning**
+  - SFT, LoRA/QLoRA, dataset preparation, evaluation basics
+- **LLM Engineering**
+  - Prompt design, tool/function calling, hallucination mitigation
+- **Deployment Mindset**
+  - API-first design, observability, monitoring-ready patterns
 
 ---
 
 ## 🧰 Tech Stack
-**Languages**
+
+### 💻 Languages
 - Python
 
-**LLM / NLP**
-- Hugging Face Transformers, Datasets (add if you use them)
-- RAG (chunking/retrieval), embeddings
-- PEFT (LoRA/QLoRA), TRL (optional)
+### 🤖 LLM / NLP
+- Hugging Face Transformers, Datasets
+- RAG pipelines (retrieval, embeddings, chunking)
+- PEFT (LoRA / QLoRA), TRL
 
-**Deep Learning / ML**
-- PyTorch, TensorFlow (if needed), scikit-learn
+### 🧠 Machine Learning
+- PyTorch, scikit-learn
 
-**Data**
-- Pandas, NumPy, Matplotlib/Seaborn
+### 📊 Data
+- Pandas, NumPy, Matplotlib / Seaborn
 
-**Backend / MLOps (optional but recommended)**
-- FastAPI, Docker, PostgreSQL
-- Git/GitHub, GitHub Actions (CI)
+### ⚙️ Backend & MLOps
+- FastAPI, Docker
+- PostgreSQL
+- Git, GitHub, GitHub Actions (CI/CD basics)
+
+---
+
+## 🚀 What I Care About
+- Building **practical AI systems**, not just demos
+- Reducing **hallucinations** and improving **model reliability**
+- Writing **clean, maintainable code**
+- Shipping **real-world usable features**
 
 ---
 
@@ -57,6 +72,8 @@
 - 📩 Email: **saeedneamtallahsaeed@gmail.com**
 - 💼 LinkedIn: https://www.linkedin.com/in/saeed-neamtallah
 
+---
+
 <p align="center">
-  <i>"Turning data into intelligence — one practical model at a time."</i>
+  <i>"Turning data into intelligence — one production-ready system at a time."</i>
 </p>
