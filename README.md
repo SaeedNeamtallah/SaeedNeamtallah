@@ -1,113 +1,99 @@
-# Hi, I'm [Your Name]
-### AI Engineer | Fine-Tuning | RAG Systems | AI Agents
+<h1 align="center">Hi, I'm Your Name</h1>
+<h3 align="center">AI Engineer | Fine-Tuning | RAG Systems | AI Agents</h3>
 
-I am an AI Engineer focused on building production-ready LLM applications, fine-tuning workflows, retrieval-augmented systems, and autonomous AI agents.  
-My work centers on turning AI concepts into reliable systems with strong evaluation, scalable deployment, and practical business value.
+<p align="center">
+  I build production-ready AI systems focused on LLM fine-tuning, retrieval pipelines, and agentic workflows.
+</p>
+
+<p align="center">
+  <a href="https://github.com/yourusername?tab=repositories">Projects</a> •
+  <a href="https://linkedin.com/in/your-profile">LinkedIn</a> •
+  <a href="https://your-portfolio.com">Portfolio</a> •
+  <a href="mailto:your@email.com">Email</a>
+</p>
 
 ---
 
 ## About Me
-- AI Engineer with a focus on **LLM systems**, **fine-tuning**, **retrieval pipelines**, and **agentic AI**
-- Interested in building **end-to-end AI products** from experimentation to deployment
-- Strong focus on **system design**, **evaluation**, **performance optimization**, and **real-world use cases**
+
+- AI Engineer focused on **Fine-Tuning**, **RAG architectures**, and **Agentic AI systems**
+- Interested in building **end-to-end LLM applications** from experimentation to deployment
+- Strong focus on **evaluation**, **system design**, **performance**, and **real-world use cases**
 
 ---
 
 ## Core Expertise
-- Fine-Tuning LLMs (SFT, LoRA, PEFT)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents and Multi-Agent Workflows
-- Prompt Engineering and Evaluation
-- LLM Application Backends and APIs
-- Model Deployment and Monitoring
+
+- Fine-Tuning LLMs using SFT, LoRA, and PEFT
+- Building retrieval-augmented generation pipelines
+- Developing AI agents with tools, memory, and workflows
+- Designing evaluation pipelines for prompts, retrieval, and generation
+- Deploying AI systems through APIs and scalable backends
 
 ---
 
 ## Tech Stack
 
 ### Languages
-- Python
-- SQL
-- JavaScript
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=mysql)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript)
 
-### AI / LLM Frameworks
-- PyTorch
-- Transformers
-- Hugging Face
-- LangChain
-- LlamaIndex
+### AI / LLM
+![PyTorch](https://img.shields.io/badge/PyTorch-111111?style=for-the-badge&logo=pytorch)
+![Transformers](https://img.shields.io/badge/Transformers-111111?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-111111?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-111111?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-111111?style=for-the-badge)
 
 ### Fine-Tuning
-- PEFT
-- LoRA
-- TRL
-- Datasets
-- Weights & Biases
+![PEFT](https://img.shields.io/badge/PEFT-111111?style=for-the-badge)
+![LoRA](https://img.shields.io/badge/LoRA-111111?style=for-the-badge)
+![TRL](https://img.shields.io/badge/TRL-111111?style=for-the-badge)
+![Weights & Biases](https://img.shields.io/badge/W%26B-111111?style=for-the-badge&logo=weightsandbiases)
 
-### Agents
-- LangGraph
-- CrewAI
-- AutoGen
-- OpenAI SDK / Agents SDK
-
-### Retrieval / Data
-- FAISS
-- Chroma
-- Pinecone
-- Elasticsearch
-
-### Backend / Deployment
-- FastAPI
-- Docker
-- GitHub Actions
-- AWS / GCP / Azure
-
-### MLOps / Experimentation
-- MLflow
-- Weights & Biases
-- Airflow
+### Agents / Retrieval / Deployment
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-111111?style=for-the-badge)
+![FAISS](https://img.shields.io/badge/FAISS-111111?style=for-the-badge)
+![Chroma](https://img.shields.io/badge/Chroma-111111?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi)
+![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker)
 
 ---
 
 ## Featured Projects
 
-### 1) [Project Name](https://github.com/yourusername/project-link)
-Built an AI assistant powered by **RAG** to answer domain-specific questions from custom knowledge sources.  
-**Tech:** Python, LangChain, FAISS, FastAPI  
-**Impact:** Improved answer relevance through chunking strategy, retrieval tuning, and response evaluation.
+### AI Support Assistant
+Built a domain-specific **RAG assistant** for document-grounded question answering.  
+**Stack:** Python, LangChain, FAISS, FastAPI  
+**Focus:** chunking, retrieval tuning, evaluation, API deployment
 
-### 2) [Project Name](https://github.com/yourusername/project-link)
-Developed a **fine-tuning pipeline** for adapting an LLM to a specialized task using supervised instruction tuning.  
-**Tech:** Hugging Face, Transformers, PEFT, LoRA, PyTorch  
-**Impact:** Increased task-specific performance while reducing compute cost with parameter-efficient training.
+### Fine-Tuned LLM for Specialized Tasks
+Developed a **fine-tuning pipeline** using parameter-efficient training methods.  
+**Stack:** PyTorch, Hugging Face, PEFT, LoRA, TRL  
+**Focus:** instruction tuning, experimentation, model adaptation
 
-### 3) [Project Name](https://github.com/yourusername/project-link)
-Designed an **AI agent workflow** for task planning, tool usage, and autonomous execution across multiple steps.  
-**Tech:** LangGraph / CrewAI / AutoGen, Python, APIs  
-**Impact:** Improved automation for repetitive workflows and multi-step reasoning tasks.
+### Autonomous AI Agent Workflow
+Designed an **AI agent system** for multi-step reasoning and tool usage.  
+**Stack:** LangGraph / CrewAI, Python, APIs  
+**Focus:** planning, memory, tool orchestration, task automation
 
 ---
 
 ## What I Build
+
 - LLM-powered applications
+- Retrieval-augmented AI systems
 - Fine-tuned models for domain-specific tasks
-- Retrieval and search-enhanced AI systems
 - AI agents with tools and memory
-- Evaluation pipelines for prompts, retrieval, and generated responses
-- Scalable API-based AI backends
+- Evaluation-first AI pipelines
+- Scalable backend services for AI products
 
 ---
 
-## Currently Exploring
-- Advanced RAG architectures
-- Agent memory and planning strategies
-- LLM evaluation frameworks
-- Efficient fine-tuning and inference optimization
+## Contact
 
----
-
-## Connect With Me
 - LinkedIn: [your-linkedin-link](https://linkedin.com/in/your-profile)
 - Portfolio: [your-portfolio-link](https://your-portfolio.com)
 - Email: your@email.com
-- Resume: [your-resume-link](https://your-resume-link.com)
